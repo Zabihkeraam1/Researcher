@@ -24,32 +24,6 @@ A multi-agent AI system built with **CrewAI** that performs research and writing
 
 ---
 
-## 🏗️ Architecture
-
-The project follows a simple multi-agent workflow:
-             User Input
-                 |
-                 v
-        +----------------+
-        |  Researcher    |
-        |     Agent      |
-        +----------------+
-                 |
-                 |
-      Search & Information Gathering
-                 |
-                 v
-        +----------------+
-        |    Writer      |
-        |     Agent      |
-        +----------------+
-                 |
-                 v
-          Final Response
-
-
----
-
 ## 🛠️ Technologies Used
 
 - [CrewAI](https://github.com/crewAIInc/crewAI) - Multi-agent AI framework
